@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5088b2d5.chunk.css",
+    "main.js": "/static/js/main.652cbe5f.chunk.js",
+    "main.js.map": "/static/js/main.652cbe5f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0e3c209b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0e3c209b.js.map",
+    "static/js/2.2dc21b37.chunk.js": "/static/js/2.2dc21b37.chunk.js",
+    "static/js/2.2dc21b37.chunk.js.map": "/static/js/2.2dc21b37.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5088b2d5.chunk.css.map": "/static/css/main.5088b2d5.chunk.css.map",
+    "static/js/2.2dc21b37.chunk.js.LICENSE.txt": "/static/js/2.2dc21b37.chunk.js.LICENSE.txt",
+    "static/media/betman.d002695b.jpg": "/static/media/betman.d002695b.jpg",
+    "static/media/goll.c4d24f82.jpg": "/static/media/goll.c4d24f82.jpg",
+    "static/media/kaxa.b5c498fb.jpg": "/static/media/kaxa.b5c498fb.jpg",
+    "static/media/loader.c4a6fab7.gif": "/static/media/loader.c4a6fab7.gif",
+    "static/media/mulan.3be1bc77.jpg": "/static/media/mulan.3be1bc77.jpg",
+    "static/media/real.ed8f0e3f.jpg": "/static/media/real.ed8f0e3f.jpg",
+    "static/media/ww.5f424879.jpg": "/static/media/ww.5f424879.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e3c209b.js",
+    "static/js/2.2dc21b37.chunk.js",
+    "static/css/main.5088b2d5.chunk.css",
+    "static/js/main.652cbe5f.chunk.js"
+  ]
+}
